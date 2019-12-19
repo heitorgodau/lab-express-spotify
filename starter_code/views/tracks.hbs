@@ -1,0 +1,13 @@
+<div class="tracks-container">
+  <div class="tracks-header">
+    <span>title</span>
+    <span>listen</span>
+  </div>
+  {{#each items}}
+    {{> partialTracks this}}
+  {{/each}}
+  <div class="back-link">
+    <a href="/albuns/{{artistId}}">Back to Álbuns</a>
+    <a href="/">Back to Home</a>
+  </div>
+</div>

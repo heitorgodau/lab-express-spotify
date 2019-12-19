@@ -1,0 +1,768 @@
+{
+  body: {
+    artists: {
+      href: "https://api.spotify.com/v1/search?query=stone&type=artist&offset=0&limit=20",
+      items: [{
+          external_urls: {
+            spotify: "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
+          },
+          followers: {
+            href: null,
+            total: 1604127
+          },
+          genres: [
+            "alternative metal",
+            "groove metal",
+            "nu metal",
+            "post-grunge",
+            "rap rock",
+            "rock"
+          ],
+          href: "https://api.spotify.com/v1/artists/49qiE8dj4JuNdpYGRPdKbF",
+          id: "49qiE8dj4JuNdpYGRPdKbF",
+          images: [{
+              height: 640,
+              url: "https://i.scdn.co/image/d4b0835e4a1aea20678ef8db51102a89bb776717",
+              width: 640
+            },
+            {
+              height: 320,
+              url: "https://i.scdn.co/image/9307bf99742a53181961dfc3344dfde2b2376a08",
+              width: 320
+            },
+            {
+              height: 160,
+              url: "https://i.scdn.co/image/e931c8d6f54b7b1383e98b5501309d8b7df5dfc3",
+              width: 160
+            }
+          ],
+          name: "Stone Sour",
+          popularity: 70,
+          type: "artist",
+          uri: "spotify:artist:49qiE8dj4JuNdpYGRPdKbF"
+        },
+        {
+          external_urls: {
+            spotify: "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
+          },
+          followers: {
+            href: null,
+            total: 1754389
+          },
+          genres: [
+            "alternative metal",
+            "alternative rock",
+            "grunge",
+            "hard rock",
+            "modern rock",
+            "nu metal",
+            "pop rock",
+            "post-grunge",
+            "rock"
+          ],
+          href: "https://api.spotify.com/v1/artists/2UazAtjfzqBF0Nho2awK4z",
+          id: "2UazAtjfzqBF0Nho2awK4z",
+          images: [{
+              height: 640,
+              url: "https://i.scdn.co/image/d242ac9d8c7a93c021e8d61863e98d77386cb0f5",
+              width: 640
+            },
+            {
+              height: 320,
+              url: "https://i.scdn.co/image/79ea0f7093209c574db41c7bfca816900e045c71",
+              width: 320
+            },
+            {
+              height: 160,
+              url: "https://i.scdn.co/image/e53244473e0fafef7cd80deb3e7c61700a5fbafd",
+              width: 160
+            }
+          ],
+          name: "Stone Temple Pilots",
+          popularity: 69,
+          type: "artist",
+          uri: "spotify:artist:2UazAtjfzqBF0Nho2awK4z"
+        },
+        {
+          external_urls: {
+            spotify: "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+          },
+          followers: {
+            href: null,
+            total: 1977992
+          },
+          genres: [
+            "alternative metal",
+            "alternative rock",
+            "blues-rock",
+            "garage rock",
+            "modern rock",
+            "nu metal",
+            "post-grunge",
+            "rock",
+            "stoner metal",
+            "stoner rock"
+          ],
+          href: "https://api.spotify.com/v1/artists/4pejUc4iciQfgdX6OKulQn",
+          id: "4pejUc4iciQfgdX6OKulQn",
+          images: [{
+              height: 640,
+              url: "https://i.scdn.co/image/905233ed063a6350613c571e8508b65c3ae98080",
+              width: 640
+            },
+            {
+              height: 320,
+              url: "https://i.scdn.co/image/bb87dad4464becc47d17eeeb1ccc0dd1d0bf22d9",
+              width: 320
+            },
+            {
+              height: 160,
+              url: "https://i.scdn.co/image/e78c5b9700108b06482f7b1677120c6c565e8b0d",
+              width: 160
+            }
+          ],
+          name: "Queens of the Stone Age",
+          popularity: 72,
+          type: "artist",
+          uri: "spotify:artist:4pejUc4iciQfgdX6OKulQn"
+        },
+        {
+          external_urls: {
+            spotify: "https://open.spotify.com/artist/2hWs22BmQkK4czFtDLnar2"
+          },
+          followers: {
+            href: null,
+            total: 161316
+          },
+          genres: [
+            "san diego rap"
+          ],
+          href: "https://api.spotify.com/v1/artists/2hWs22BmQkK4czFtDLnar2",
+          id: "2hWs22BmQkK4czFtDLnar2",
+          images: [{
+              height: 640,
+              url: "https://i.scdn.co/image/575fe70b6d318dcea8d4448d5e67307c4853ca17",
+              width: 640
+            },
+            {
+              height: 320,
+              url: "https://i.scdn.co/image/76164d21a53b165536bce5224bd9ea2957abe1a3",
+              width: 320
+            },
+            {
+              height: 160,
+              url: "https://i.scdn.co/image/17d1bb64a37bb30cdd2b1210a5022f5c435f659d",
+              width: 160
+            }
+          ],
+          name: "Rob $tone",
+          popularity: 64,
+          type: "artist",
+          uri: "spotify:artist:2hWs22BmQkK4czFtDLnar2"
+        },
+        {
+          external_urls: {
+            spotify: "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+          },
+          followers: {
+            href: null,
+            total: 919839
+          },
+          genres: [
+            "australian indie folk",
+            "folk-pop",
+            "indie folk",
+            "neo mellow"
+          ],
+          href: "https://api.spotify.com/v1/artists/4tvKz56Tr39bkhcQUTO0Xr",
+          id: "4tvKz56Tr39bkhcQUTO0Xr",
+          images: [{
+              height: 640,
+              url: "https://i.scdn.co/image/4a6358c9c8a8bb4a529f505774415e93cb40ed65",
+              width: 640
+            },
+            {
+              height: 320,
+              url: "https://i.scdn.co/image/8512a8d0a47df01750d62ae05c3d87ab96990554",
+              width: 320
+            },
+            {
+              height: 160,
+              url: "https://i.scdn.co/image/e1d09b9e63e08e469e9d065d99f8b7e27d11a62e",
+              width: 160
+            }
+          ],
+          name: "Angus & Julia Stone",
+          popularity: 71,
+          type: "artist",
+          uri: "spotify:artist:4tvKz56Tr39bkhcQUTO0Xr"
+        },
+        {
+          external_urls: {
+            spotify: "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+          },
+          followers: {
+            href: null,
+            total: 461581
+          },
+          genres: [
+            "classic rock",
+            "classic soul",
+            "disco",
+            "folk rock",
+            "funk",
+            "funk rock",
+            "mellow gold",
+            "motown",
+            "psychedelic rock",
+            "rock",
+            "roots rock",
+            "soul",
+            "southern soul"
+          ],
+          href: "https://api.spotify.com/v1/artists/5m8H6zSadhu1j9Yi04VLqD",
+          id: "5m8H6zSadhu1j9Yi04VLqD",
+          images: [{
+              height: 1000,
+              url: "https://i.scdn.co/image/9aef578389c4a9d27e15a627acb784c41094e79d",
+              width: 1000
+            },
+            {
+              height: 640,
+              url: "https://i.scdn.co/image/468e538febbd5553625965bacc8abd5a5e44ed71",
+              width: 640
+            },
+            {
+              height: 200,
+              url: "https://i.scdn.co/image/110d1322a3a6cb7871fa3a326af3040431419f5d",
+              width: 200
+            },
+            {
+              height: 64,
+              url: "https://i.scdn.co/image/36823778c3a58b474d5c3c9407093d25da63390f",
+              width: 64
+            }
+          ],
+          name: "Sly & The Family Stone",
+          popularity: 64,
+          type: "artist",
+          uri: "spotify:artist:5m8H6zSadhu1j9Yi04VLqD"
+        },
+        {
+          external_urls: {
+            spotify: "https://open.spotify.com/artist/5Vu87j6vCvfwc7FNVGnBwk"
+          },
+          followers: {
+            href: null,
+            total: 51420
+          },
+          genres: [
+            "bass trap",
+            "deep underground hip hop",
+            "indie pop rap"
+          ],
+          href: "https://api.spotify.com/v1/artists/5Vu87j6vCvfwc7FNVGnBwk",
+          id: "5Vu87j6vCvfwc7FNVGnBwk",
+          images: [{
+              height: 640,
+              url: "https://i.scdn.co/image/9ec985b377afe26c77be17a7deed50efec388e39",
+              width: 640
+            },
+            {
+              height: 320,
+              url: "https://i.scdn.co/image/aa7b2f73bf5e1d598173bfc045d73afa0c62b89c",
+              width: 320
+            },
+            {
+              height: 160,
+              url: "https://i.scdn.co/image/10cd5f2c930a681bcf9d206342566eb47a79af40",
+              width: 160
+            }
+          ],
+          name: "Justin Stone",
+          popularity: 60,
+          type: "artist",
+          uri: "spotify:artist:5Vu87j6vCvfwc7FNVGnBwk"
+        },
+        {
+          external_urls: {
+            spotify: "https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa"
+          },
+          followers: {
+            href: null,
+            total: 186157
+          },
+          genres: [
+            "retro soul"
+          ],
+          href: "https://api.spotify.com/v1/artists/536osqBGKzeozje8BfcGsa",
+          id: "536osqBGKzeozje8BfcGsa",
+          images: [{
+              height: 640,
+              url: "https://i.scdn.co/image/a1fe4ecea0140f2e803820c2b2c59b5d974926f6",
+              width: 640
+            },
+            {
+              height: 320,
+              url: "https://i.scdn.co/image/4f5ed1c71c4d2c760883b56131a209605dcf80e8",
+              width: 320
+            },
+            {
+              height: 160,
+              url: "https://i.scdn.co/image/c7d64075ae463e07a2bc15daeab6b1f3a7fa1a28",
+              width: 160
+            }
+          ],
+          name: "Allen Stone",
+          popularity: 55,
+          type: "artist",
+          uri: "spotify:artist:536osqBGKzeozje8BfcGsa"
+        },
+        {
+          external_urls: {
+            spotify: "https://open.spotify.com/artist/68Uwx1d3EbjDJhYsLjqvIq"
+          },
+          followers: {
+            href: null,
+            total: 17259
+          },
+          genres: [
+            "hollywood"
+          ],
+          href: "https://api.spotify.com/v1/artists/68Uwx1d3EbjDJhYsLjqvIq",
+          id: "68Uwx1d3EbjDJhYsLjqvIq",
+          images: [{
+              height: 1000,
+              url: "https://i.scdn.co/image/cee04ea73506df4e3bc77fc334e9cfbd49387383",
+              width: 1000
+            },
+            {
+              height: 640,
+              url: "https://i.scdn.co/image/fd42cc5ad191e24fabe8c2eea48a01384aa6efad",
+              width: 640
+            },
+            {
+              height: 200,
+              url: "https://i.scdn.co/image/ca935074934f5b0e3106f508f51bd9394e4aa4f9",
+              width: 200
+            },
+            {
+              height: 64,
+              url: "https://i.scdn.co/image/3916102dfdc3c974f336ce53bda62bd7a2f4deda",
+              width: 64
+            }
+          ],
+          name: "Emma Stone",
+          popularity: 60,
+          type: "artist",
+          uri: "spotify:artist:68Uwx1d3EbjDJhYsLjqvIq"
+        },
+        {
+          external_urls: {
+            spotify: "https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug"
+          },
+          followers: {
+            href: null,
+            total: 315548
+          },
+          genres: [
+            "alternative metal",
+            "nu metal",
+            "post-grunge",
+            "rock"
+          ],
+          href: "https://api.spotify.com/v1/artists/6WMo39FU3nrpSz3qMgRKug",
+          id: "6WMo39FU3nrpSz3qMgRKug",
+          images: [{
+              height: 640,
+              url: "https://i.scdn.co/image/098f0dd9b33a2fd594ce80d7de35faef63a1dab6",
+              width: 640
+            },
+            {
+              height: 320,
+              url: "https://i.scdn.co/image/f51b39433b6c783967b65f9b0ac85b5f56354e1b",
+              width: 320
+            },
+            {
+              height: 160,
+              url: "https://i.scdn.co/image/59806a1ff67366fefe843b52ebe6a4cbcecfb92b",
+              width: 160
+            }
+          ],
+          name: "Black Stone Cherry",
+          popularity: 59,
+          type: "artist",
+          uri: "spotify:artist:6WMo39FU3nrpSz3qMgRKug"
+        },
+        {
+          external_urls: {
+            spotify: "https://open.spotify.com/artist/4kwEd1P9j15ZqUVP5zK7Pv"
+          },
+          followers: {
+            href: null,
+            total: 19668
+          },
+          genres: [
+            "deep groove house",
+            "disco house",
+            "edm",
+            "electro house",
+            "house",
+            "tropical house"
+          ],
+          href: "https://api.spotify.com/v1/artists/4kwEd1P9j15ZqUVP5zK7Pv",
+          id: "4kwEd1P9j15ZqUVP5zK7Pv",
+          images: [{
+              height: 640,
+              url: "https://i.scdn.co/image/35b0e9c790c72bd9cc4260c315af9b9c4495a470",
+              width: 640
+            },
+            {
+              height: 320,
+              url: "https://i.scdn.co/image/81b864787aa4c6817988530b66c8bee7e3188db4",
+              width: 320
+            },
+            {
+              height: 160,
+              url: "https://i.scdn.co/image/942bb8e5b8500366323194d2e46e55448249dfd0",
+              width: 160
+            }
+          ],
+          name: "Joe Stone",
+          popularity: 65,
+          type: "artist",
+          uri: "spotify:artist:4kwEd1P9j15ZqUVP5zK7Pv"
+        },
+        {
+          external_urls: {
+            spotify: "https://open.spotify.com/artist/2IvPBSC4CgNLYC1GHEAxcN"
+          },
+          followers: {
+            href: null,
+            total: 94717
+          },
+          genres: [
+            "deep underground hip hop"
+          ],
+          href: "https://api.spotify.com/v1/artists/2IvPBSC4CgNLYC1GHEAxcN",
+          id: "2IvPBSC4CgNLYC1GHEAxcN",
+          images: [{
+              height: 640,
+              url: "https://i.scdn.co/image/71da184a3ee2282bf856e8fffb5440f618ea309f",
+              width: 640
+            },
+            {
+              height: 320,
+              url: "https://i.scdn.co/image/a1cce78d84e7f7a5595dc67482ce9901e82ee806",
+              width: 320
+            },
+            {
+              height: 160,
+              url: "https://i.scdn.co/image/18c3621ae0aa24222ef3f50ac9410f24a099e91e",
+              width: 160
+            }
+          ],
+          name: "Stevie Stone",
+          popularity: 51,
+          type: "artist",
+          uri: "spotify:artist:2IvPBSC4CgNLYC1GHEAxcN"
+        },
+        {
+          external_urls: {
+            spotify: "https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi"
+          },
+          followers: {
+            href: null,
+            total: 749974
+          },
+          genres: [
+            "british soul",
+            "neo soul"
+          ],
+          href: "https://api.spotify.com/v1/artists/7bvcQXJHkFiN1ppIN3q4fi",
+          id: "7bvcQXJHkFiN1ppIN3q4fi",
+          images: [{
+              height: 640,
+              url: "https://i.scdn.co/image/1a22a1f68aa7b596e98357ad38aaf18b500cbb1f",
+              width: 640
+            },
+            {
+              height: 200,
+              url: "https://i.scdn.co/image/3d7fee14878e9aed7f3632f7eebf30cae2a0cd45",
+              width: 200
+            },
+            {
+              height: 64,
+              url: "https://i.scdn.co/image/d2dfb80cbd9b00308b1fb277a775f0791d6f8c63",
+              width: 64
+            }
+          ],
+          name: "Joss Stone",
+          popularity: 61,
+          type: "artist",
+          uri: "spotify:artist:7bvcQXJHkFiN1ppIN3q4fi"
+        },
+        {
+          external_urls: {
+            spotify: "https://open.spotify.com/artist/5JlHvzLHD1W0n4KQYOsPa9"
+          },
+          followers: {
+            href: null,
+            total: 6672
+          },
+          genres: [
+            "west coast trap"
+          ],
+          href: "https://api.spotify.com/v1/artists/5JlHvzLHD1W0n4KQYOsPa9",
+          id: "5JlHvzLHD1W0n4KQYOsPa9",
+          images: [{
+              height: 640,
+              url: "https://i.scdn.co/image/37f74a0f4fc3b78746794c93e17e0f7b359dfdee",
+              width: 640
+            },
+            {
+              height: 300,
+              url: "https://i.scdn.co/image/558268a43d932ee6c821d150c023ddf0626f5d15",
+              width: 300
+            },
+            {
+              height: 64,
+              url: "https://i.scdn.co/image/baae04497208eae4baed04a45ee065ab7361a31e",
+              width: 64
+            }
+          ],
+          name: "J-Stone",
+          popularity: 47,
+          type: "artist",
+          uri: "spotify:artist:5JlHvzLHD1W0n4KQYOsPa9"
+        },
+        {
+          external_urls: {
+            spotify: "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
+          },
+          followers: {
+            href: null,
+            total: 779446
+          },
+          genres: [
+            "britpop",
+            "indie rock",
+            "madchester",
+            "modern rock",
+            "new wave",
+            "rock"
+          ],
+          href: "https://api.spotify.com/v1/artists/1lYT0A0LV5DUfxr6doRP3d",
+          id: "1lYT0A0LV5DUfxr6doRP3d",
+          images: [{
+              height: 368,
+              url: "https://i.scdn.co/image/b402bab4eb25e953eef911e1fde6076e116ce0b2",
+              width: 552
+            },
+            {
+              height: 133,
+              url: "https://i.scdn.co/image/b0854d19e48d0f2c8e3c0cc83f04813600529a0b",
+              width: 200
+            },
+            {
+              height: 43,
+              url: "https://i.scdn.co/image/fa013dac5df488e93957f3c608fb537b0e5ccfc0",
+              width: 64
+            }
+          ],
+          name: "The Stone Roses",
+          popularity: 64,
+          type: "artist",
+          uri: "spotify:artist:1lYT0A0LV5DUfxr6doRP3d"
+        },
+        {
+          external_urls: {
+            spotify: "https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM"
+          },
+          followers: {
+            href: null,
+            total: 345284
+          },
+          genres: [
+            "neo soul",
+            "r&b",
+            "soul",
+            "urban contemporary"
+          ],
+          href: "https://api.spotify.com/v1/artists/2hWr3AjjKOCVmWcwvuT4uM",
+          id: "2hWr3AjjKOCVmWcwvuT4uM",
+          images: [{
+              height: 879,
+              url: "https://i.scdn.co/image/5b128023e8c83a475685b6b796c35b6db0d17e57",
+              width: 1000
+            },
+            {
+              height: 563,
+              url: "https://i.scdn.co/image/4bdf6314d2e90bb08fd767af0e2fe607f371860d",
+              width: 640
+            },
+            {
+              height: 176,
+              url: "https://i.scdn.co/image/b978ee23529080b42e2606ece32755b313567a55",
+              width: 200
+            },
+            {
+              height: 56,
+              url: "https://i.scdn.co/image/bdfa30b01d49efb37e8078b5b0ed2fe52ccac5ed",
+              width: 64
+            }
+          ],
+          name: "Angie Stone",
+          popularity: 56,
+          type: "artist",
+          uri: "spotify:artist:2hWr3AjjKOCVmWcwvuT4uM"
+        },
+        {
+          external_urls: {
+            spotify: "https://open.spotify.com/artist/4epBFW4UHEmgjIK5xOrBhk"
+          },
+          followers: {
+            href: null,
+            total: 91399
+          },
+          genres: [
+            "contemporary country",
+            "country",
+            "country gospel",
+            "country road",
+            "country rock",
+            "outlaw country",
+            "traditional country"
+          ],
+          href: "https://api.spotify.com/v1/artists/4epBFW4UHEmgjIK5xOrBhk",
+          id: "4epBFW4UHEmgjIK5xOrBhk",
+          images: [{
+              height: 640,
+              url: "https://i.scdn.co/image/685d96c24ce71c012c790422e0e55b907f167c14",
+              width: 640
+            },
+            {
+              height: 320,
+              url: "https://i.scdn.co/image/73c0967659e7296f8fda9417d7021982ddb0fc16",
+              width: 320
+            },
+            {
+              height: 160,
+              url: "https://i.scdn.co/image/3d894af5c00e55a9f9f2fcf2774395c31a56f88c",
+              width: 160
+            }
+          ],
+          name: "Doug Stone",
+          popularity: 46,
+          type: "artist",
+          uri: "spotify:artist:4epBFW4UHEmgjIK5xOrBhk"
+        },
+        {
+          external_urls: {
+            spotify: "https://open.spotify.com/artist/19gmxCK2V3jLMi5fDYyKtS"
+          },
+          followers: {
+            href: null,
+            total: 63414
+          },
+          genres: [],
+          href: "https://api.spotify.com/v1/artists/19gmxCK2V3jLMi5fDYyKtS",
+          id: "19gmxCK2V3jLMi5fDYyKtS",
+          images: [],
+          name: "Willamette Stone",
+          popularity: 52,
+          type: "artist",
+          uri: "spotify:artist:19gmxCK2V3jLMi5fDYyKtS"
+        },
+        {
+          external_urls: {
+            spotify: "https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x"
+          },
+          followers: {
+            href: null,
+            total: 15576
+          },
+          genres: [
+            "anthem worship",
+            "roots worship"
+          ],
+          href: "https://api.spotify.com/v1/artists/5B0gcQCmHJR2VznrIGKh4x",
+          id: "5B0gcQCmHJR2VznrIGKh4x",
+          images: [{
+              height: 640,
+              url: "https://i.scdn.co/image/47c4265c49be090b97b9180f6701eec18b34490f",
+              width: 640
+            },
+            {
+              height: 320,
+              url: "https://i.scdn.co/image/3a73ae4a06671b5ed9d42e53d52d10fb38149711",
+              width: 320
+            },
+            {
+              height: 160,
+              url: "https://i.scdn.co/image/4669243620b53d63d2c518b0eb639dc9043424b2",
+              width: 160
+            }
+          ],
+          name: "Austin Stone Worship",
+          popularity: 44,
+          type: "artist",
+          uri: "spotify:artist:5B0gcQCmHJR2VznrIGKh4x"
+        },
+        {
+          external_urls: {
+            spotify: "https://open.spotify.com/artist/2X9nnux4eS3CFBDSjcnoBQ"
+          },
+          followers: {
+            href: null,
+            total: 4244
+          },
+          genres: [],
+          href: "https://api.spotify.com/v1/artists/2X9nnux4eS3CFBDSjcnoBQ",
+          id: "2X9nnux4eS3CFBDSjcnoBQ",
+          images: [{
+              height: 640,
+              url: "https://i.scdn.co/image/58d6db85b730c039a995bad0c38a773f23c55482",
+              width: 640
+            },
+            {
+              height: 300,
+              url: "https://i.scdn.co/image/650f17a75bce0b2293eb9bdfa064956d06bffdb5",
+              width: 300
+            },
+            {
+              height: 64,
+              url: "https://i.scdn.co/image/ea01b6e5a833b6cd37a428a08f167b91d9dfde3f",
+              width: 64
+            }
+          ],
+          name: "Stone Poneys",
+          popularity: 42,
+          type: "artist",
+          uri: "spotify:artist:2X9nnux4eS3CFBDSjcnoBQ"
+        }
+      ],
+      limit: 20,
+      next: "https://api.spotify.com/v1/search?query=stone&type=artist&offset=20&limit=20",
+      offset: 0,
+      previous: null,
+      total: 2614
+    }
+  },
+  headers: {
+    content - type: "application/json; charset=utf-8",
+    cache - control: "public, max-age=7200",
+    access - control - allow - origin: "*",
+    access - control - allow - headers: "Accept, App-Platform, Authorization, Content-Type, Origin, Retry-After, Spotify-App-Version",
+    access - control - allow - methods: "GET, POST, OPTIONS, PUT, DELETE, PATCH",
+    access - control - allow - credentials: "true",
+    access - control - max - age: "604800",
+    content - encoding: "gzip",
+    date: "Thu, 26 Sep 2019 14:13:14 GMT",
+    via: "1.1 google",
+    alt - svc: "clear",
+    connection: "close",
+    transfer - encoding: "chunked"
+  },
+  statusCode: 200
+}

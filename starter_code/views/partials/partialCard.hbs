@@ -1,0 +1,17 @@
+<div class="card">
+  <figure class="card-img">
+    {{#if images.0.url}}
+      <img src={{images.0.url}} alt={{name}}>
+    {{else}}
+      <img src="http://www.designshock.com/wp-content/uploads/2016/04/man-4-400.jpg" alt={{name}}>
+    {{/if}}
+  </figure>
+  <div class="card-info">
+    <h3>{{name}}</h3>
+    {{#if followers}}
+      <a class="btn" href="/albuns/{{id}}">View Albuns</a>
+    {{else}}
+      <a class="btn" href="/tracks/{{id}}">View Tracks</a>
+    {{/if }}
+  </div>
+</div>
