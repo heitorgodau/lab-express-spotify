@@ -1,14 +1,14 @@
 <div class="card-container">
   {{#each items}}
-    {{> partialCard this}}
+    {{> partialCard}}
   {{/each}}
 </div>
-<div class="back-link">
+<div class="back-links">
   {{#if items.0.followers}}
-    <a href="">Back to Home</a>
+    <a href="/">Back to Home</a>
   {{/if}}
   {{#unless items.0.followers}}
-    <a href="">Back to Artist</a>
-    <a href="">Back to Home</a>
+    <a onclick="window.history.back()">Back to Artist</a>
+    <a href="/">Back to Home</a>
   {{/unless}}
 </div>

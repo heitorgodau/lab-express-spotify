@@ -76,8 +76,15 @@ img {
   margin-top: 10px;
   border-radius: 0;
   color: white;
-  background-color: #ff6666;
-  border: 1px solid #ff6666;
+  background-color: #f66;
+  border: 1px solid #f66;
+  transition: all ease-in-out .3s;
+}
+
+.btn:hover,
+.card .card-info a:hover {
+  background-color: #fff;
+  color: #f66;
 }
 
 .card-container {
@@ -150,4 +157,35 @@ img {
   margin-bottom: 2px;
   background-color: #F6F6F6;
   padding: 12px 8px;
+}
+
+.back-links {
+  display: flex;
+  justify-content: center;
+  padding-left: 12px;
+  margin: 30px;
+}
+
+.back-links a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: fit-content;
+  background-color: rebeccaPurple;
+  color: white;
+  border: 2px solid rebeccapurple;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 17px;
+  transition: all ease-in-out .3s;
+}
+
+.back-links a:first-child {
+  margin-right: 17px;
+  cursor: pointer;
+}
+
+.back-links a:hover {
+  background-color: #fff;
+  color: rebeccaPurple;
 }

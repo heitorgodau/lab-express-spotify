@@ -49,6 +49,7 @@ app.get('/albuns/:artistId', async (req, res) => {
   const { artistId } = req.params;
   const albunsData = await spotifyApi.getArtistAlbums(artistId);
   const { items } = albunsData.body;
+  
   try {
     res.render('cards', { items });
   } catch (error) {
